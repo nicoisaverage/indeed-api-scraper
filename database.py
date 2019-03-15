@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 14 15:28:42 2019
-
-@author: Nick
-"""
 #open database connection
 db = pymysql.connect(host="ourlocalhost",
                      user="nicoisaverage",
