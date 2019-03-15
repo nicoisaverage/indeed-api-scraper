@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 # verifying indeed publisher number 
 from indeed import IndeedClient 
 client = IndeedClient(publisher = 'publisher_number')
